@@ -1,0 +1,12 @@
+type Query{
+    proprietaireList:[Proprietaire]
+
+}
+type Proprietaire {
+    id:Int,
+    nom:String,
+    date_naissance:String,
+    email:String
+
+
+}
