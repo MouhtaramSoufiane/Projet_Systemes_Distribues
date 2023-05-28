@@ -6,7 +6,7 @@
         <th>Eureka Discovery</th>
     </tr>
     <tr>
-        <td><img src="images/eureka.jpg"/></td>
+        <td><img src=""/></td>
     </tr>
 </table>
 
@@ -17,8 +17,8 @@
         <th>Violation WS</th>
     </tr>
     <tr>
-        <td><img src="images/vehTest.jpg"/></td>
-        <td><img src="images/radars.jpg"/></td>
-        <td><img src="images/infractions.jpg"/></td>
+        <td><img style="width: 10px;" src="regis.png"/></td>
+        <td><img src="radar.png"/></td>
+        <td><img src="infraction.png"/></td>
     </tr>
 </table>
