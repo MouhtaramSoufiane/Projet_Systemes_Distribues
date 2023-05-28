@@ -270,14 +270,47 @@ C:.
 
 <table align="center">
     <tr>
-        <th>Registration WS</th>
-        <th>Radars WS</th>
-        <th>Violation WS</th>
+        <th>Wlecome Page</th>
+        <th>Login Page</th>
     </tr>
     <tr>
-        <td><img  src="regis.png"/></td>
-        <td><img src="radar.png"/></td>
-        <td><img src="infraction.png"/></td>
+        <td><img src="welcome.png"/></td>
+        <td><img src="login.png"/></td>
+    </tr>
+</table>
+<table align="center">
+    <tr>
+        <th>Dashbord Page</th>
+        <th>About Page</th>
+    </tr>
+    <tr>
+        <td><img src="dashbord.png"/></td>
+        <td><img src="about.png"/></td>
+    </tr>
+</table>
+<table align="center">
+    <tr>
+        <th>All Cars Page </th>
+        <th>Add Car Page</th>
+        <th>Del Car Page</th>
+        <th>Search Car</th>
+    </tr>
+    <tr>
+        <td><img src="cars.png"/></td>
+        <td><img src="addcar.png"/></td>
+        <td><img src="delcar.png"/></td>
+        <td><img src="serach.png"/></td>
+    </tr>
+</table>
+
+<table align="center">
+    <tr>
+        <th>Downlod Violation PDF</th>
+       
+    </tr>
+    <tr>
+        <td><img src="violpdf.png"/></td>
+       
     </tr>
 </table>
 
