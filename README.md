@@ -305,12 +305,10 @@ C:.
 
 <table align="center">
     <tr>
-        <th>Downlod Violation PDF</th>
-       
+        <th>Download Violation PDF </th>
     </tr>
     <tr>
         <td><img src="violpdf.png"/></td>
-       
     </tr>
 </table>
 
