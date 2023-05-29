@@ -1,6 +1,6 @@
 # Radar Violation Detection
 
-This project talk about Radar System there are two part : backend :Spring - microservices and the side of the front : Angular 16
+This project talk about Radar System there are two parts : backend : Spring - microservices and the side of the front : Angular 16 
 # Getting Started
 ## 📚Prerequisite
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
